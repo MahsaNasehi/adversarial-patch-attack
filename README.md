@@ -25,7 +25,7 @@ Follow these instructions to set up the environment and run the project on your 
 ### Prerequisites
 
 - Python 3.8+
-- 
+
 ### Installation
 
 1.  **Clone the repository:**
@@ -75,7 +75,7 @@ python src/train_patch.py --model_path models/mnist_cnn.pth --save_path models/m
 
 ## Project Structure
 
-
+```bash
 .
 ├── results/              # Directory for visualization outputs
 ├── src/                  # Source code for the project
@@ -88,3 +88,4 @@ python src/train_patch.py --model_path models/mnist_cnn.pth --save_path models/m
 ├── requirements.txt      # Project dependencies
 └── README.md             # This file
 `
+```
