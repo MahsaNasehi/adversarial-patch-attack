@@ -16,7 +16,7 @@ The following images show the patch's effectiveness.
 
 | Original Images | Fooled to Class '3' | Fooled to Class '4' | Fooled to Class '2' |
 | :---: | :---: | :---: | :---: |
-| ![Original Examples](res/original.png) | ![Patched for Target 3](res/patched_epoch_20_15%.png) | ![Patched for Target 4](res/patched_epoch_20.png) | ![Patched for Target 2](res/patched_epoch_5.png) |
+| ![Original Examples](res/original.png) | ![Patched for Target 3](res/patched_3.png) | ![Patched for Target 4](res/patched_epoch_20.png) | ![Patched for Target 2](res/patched_epoch_5.png) |
 
 ## Getting Started
 
