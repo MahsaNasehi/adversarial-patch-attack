@@ -35,7 +35,6 @@ adv_patch/
 data/
 
 models/
-results/
 out_patch/
 *.pth
 *.pt
