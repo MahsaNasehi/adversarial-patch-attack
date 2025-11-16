@@ -38,5 +38,4 @@ models/
 out_patch/
 *.pth
 *.pt
-*.png
 *.jpg
