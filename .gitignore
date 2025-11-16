@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+wheels/
+
+# Virtual Environments
+.env
+.venv
+venv/
+ENV/
+env/
+adv_patch/
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Test and coverage reports
+.pytest_cache/
+
+data/
+
+models/
+results/
+out_patch/
+*.pth
+*.pt
+*.png
+*.jpg
